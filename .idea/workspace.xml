@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b256803-684a-4744-9619-82f5d509e8a2" name="Default" comment="" />
+    <list default="true" id="64e674af-5f29-4fd5-808d-ae1f4dc49fac" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="myAttendance.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,23 +19,66 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="Sdemenu_Ionic2" />
+    <favorites_list name="myAttendance" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pages/home/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="FORCE_PUSH_ALLOWED" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/pages/home/home.html" />
+        <option value="$PROJECT_DIR$/src/theme/variables.scss" />
+        <option value="$PROJECT_DIR$/src/pages/home/home.ts" />
+        <option value="$PROJECT_DIR$/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/src/pages/adminviewhods/adminviewhods.html" />
+        <option value="$PROJECT_DIR$/src/pages/adminviewmanagement/adminviewmanagement.html" />
+        <option value="$PROJECT_DIR$/src/pages/adminviewparents/adminviewparents.html" />
+        <option value="$PROJECT_DIR$/src/pages/adminviewstaffs/adminviewstaffs.html" />
+        <option value="$PROJECT_DIR$/src/pages/adminviewstudents/adminviewstudents.html" />
+        <option value="$PROJECT_DIR$/src/pages/admindash/admindash.ts" />
+        <option value="$PROJECT_DIR$/src/pages/admindash/admindash.html" />
+        <option value="$PROJECT_DIR$/src/pages/admin/admin.scss" />
+        <option value="$PROJECT_DIR$/src/pages/admin/admin.html" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/platforms/android/cordova/node_modules" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
@@ -37,6 +87,23 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -52,43 +119,89 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Sdemenu_Ionic2" />
+              <option name="myItemId" value="myAttendance" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Sdemenu_Ionic2" />
+              <option name="myItemId" value="myAttendance" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myAttendance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myAttendance" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myAttendance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myAttendance" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="home" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myAttendance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myAttendance" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
-    <property name="js.eslint.eslintPackage" value="" />
-    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Ionic\myAttendance\Sdemenu_Ionic2\src\app" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Ionic\myAttendance\src\assets" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
@@ -106,11 +219,13 @@
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
-    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
-      <PhpTestRunnerSettings />
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -139,43 +254,206 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2b256803-684a-4744-9619-82f5d509e8a2" name="Default" comment="" />
-      <created>1480132128711</created>
+      <changelist id="64e674af-5f29-4fd5-808d-ae1f4dc49fac" name="Default" comment="" />
+      <created>1479994870503</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1480132128711</updated>
-      <workItem from="1480132130000" duration="301000" />
+      <updated>1479994870503</updated>
+      <workItem from="1479994871904" duration="404000" />
+      <workItem from="1479995286083" duration="3636000" />
+      <workItem from="1480051481150" duration="185000" />
+      <workItem from="1480131347319" duration="355000" />
+      <workItem from="1480131997479" duration="130000" />
+      <workItem from="1480132952141" duration="36000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="301000" />
+    <option name="totallyTimeSpent" value="4746000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2647504" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26096824" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/.tmp/app/app.module.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/app/app.module.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/app/app.component.js" />
+        <option value="$PROJECT_DIR$/.tmp/app/app.component.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/app/app.module.js" />
+        <option value="$PROJECT_DIR$/.tmp/app/app.module.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/app/main.prod.js" />
+        <option value="$PROJECT_DIR$/.tmp/app/main.prod.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/app/app.component.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/app/app.component.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/pages/home/home.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/pages/home/home.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/pages/home/home.js" />
+        <option value="$PROJECT_DIR$/.tmp/pages/home/home.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/pages/admin/admin.js" />
+        <option value="$PROJECT_DIR$/.tmp/pages/admin/admin.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/pages/admin/admin.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/pages/admin/admin.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/pages/admindash/admindash.js" />
+        <option value="$PROJECT_DIR$/.tmp/pages/admindash/admindash.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/pages/admindash/admindash.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/pages/admindash/admindash.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/pages/adminviewhods/adminviewhods.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/pages/adminviewhods/adminviewhods.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/pages/adminviewhods/adminviewhods.js" />
+        <option value="$PROJECT_DIR$/.tmp/pages/adminviewhods/adminviewhods.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/pages/adminviewstaffs/adminviewstaffs.js" />
+        <option value="$PROJECT_DIR$/.tmp/pages/adminviewstaffs/adminviewstaffs.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/pages/adminviewstaffs/adminviewstaffs.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/pages/adminviewstaffs/adminviewstaffs.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/pages/adminviewparents/adminviewparents.js" />
+        <option value="$PROJECT_DIR$/.tmp/pages/adminviewparents/adminviewparents.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/pages/adminviewparents/adminviewparents.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/pages/adminviewparents/adminviewparents.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/pages/adminviewstudents/adminviewstudents.js" />
+        <option value="$PROJECT_DIR$/.tmp/pages/adminviewstudents/adminviewstudents.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/pages/adminviewstudents/adminviewstudents.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/pages/adminviewstudents/adminviewstudents.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/pages/adminviewmanagement/adminviewmanagement.js" />
+        <option value="$PROJECT_DIR$/.tmp/pages/adminviewmanagement/adminviewmanagement.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/pages/adminviewmanagement/adminviewmanagement.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/pages/adminviewmanagement/adminviewmanagement.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/@angular/forms/src/directives/ng_model.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/@angular/forms/src/directives/ng_model.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/@angular/forms/src/directives/ng_control_status.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/@angular/forms/src/directives/ng_control_status.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/@angular/forms/src/directives/default_value_accessor.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/@angular/forms/src/directives/default_value_accessor.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/@angular/common/src/directives/ng_style.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/@angular/common/src/directives/ng_style.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/@angular/common/src/directives/ng_if.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/@angular/common/src/directives/ng_if.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/@angular/common/src/directives/ng_switch.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/@angular/common/src/directives/ng_switch.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/@angular/common/src/directives/ng_class.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/@angular/common/src/directives/ng_class.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/@angular/common/src/directives/ng_for.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/@angular/common/src/directives/ng_for.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/app/app-root.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/app/app-root.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/nav/nav.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/nav/nav.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/nav/overlay-portal.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/nav/overlay-portal.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/card/card.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/card/card.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/icon/icon.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/icon/icon.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/item/item-reorder.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/item/item-reorder.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/item/item.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/item/item.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/list/list.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/list/list.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/menu/menu.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/menu/menu.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/menu/menu-toggle.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/menu/menu-toggle.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/menu/menu-close.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/menu/menu-close.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/alert/alert-component.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/alert/alert-component.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/input/native-input.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/input/native-input.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/input/input.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/input/input.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/label/label.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/label/label.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/modal/modal-component.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/modal/modal-component.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/toast/toast-component.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/toast/toast-component.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/button/button.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/button/button.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/navbar/navbar.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/navbar/navbar.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/picker/picker-component.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/picker/picker-component.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/content/content.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/content/content.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/loading/loading-component.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/loading/loading-component.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/popover/popover-component.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/popover/popover-component.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/spinner/spinner.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/spinner/spinner.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/toolbar/toolbar-title.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/toolbar/toolbar-title.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/toolbar/toolbar-item.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/toolbar/toolbar-item.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/toolbar/toolbar.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/toolbar/toolbar.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/backdrop/backdrop.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/backdrop/backdrop.ngfactory.js.map" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/action-sheet/action-sheet-component.ngfactory.js" />
+        <option value="$PROJECT_DIR$/.tmp/node_modules/ionic-angular/components/action-sheet/action-sheet-component.ngfactory.js.map" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -185,10 +463,180 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/pages/home/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/home/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/admin/admin.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/admin/admin.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/admin/admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/admin/admin.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/home/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/home/home.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/theme/variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="8" lean-forward="false" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/theme/variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="8" lean-forward="false" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="37" column="24" lean-forward="false" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/adminviewhods/adminviewhods.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/adminviewmanagement/adminviewmanagement.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/adminviewparents/adminviewparents.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/adminviewstaffs/adminviewstaffs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/adminviewstudents/adminviewstudents.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/admindash/admindash.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/admindash/admindash.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="23" column="46" lean-forward="false" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/admindash/admindash.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-96">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-121">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/home/home.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-119">
+          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/admin/admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="41" column="38" lean-forward="false" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/admin/admin.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/home/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
           <folding />
         </state>
       </provider>
