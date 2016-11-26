@@ -1,0 +1,30 @@
+<ion-header>
+  <ion-navbar color="apphead">
+    <ion-title>
+      Side Menu Sample
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <p align="center">
+    <img src="assets/images/favicon.ico" height="100px" width="100px"/>
+  </p>
+
+  <ion-item>
+    <ion-label floating color="apphead">Username</ion-label>
+    <ion-input type="text" color="apphead" #username></ion-input>
+  </ion-item>
+
+  <ion-item>
+    <ion-label floating color="apphead">Password</ion-label>
+    <ion-input type="password" color="apphead" #password></ion-input>
+  </ion-item>
+  <br>
+
+  <button ion-button full color="apphead" (click)="login(username.value,password.value); username.value=''; password.value='';">Login</button>
+
+
+
+
+</ion-content>

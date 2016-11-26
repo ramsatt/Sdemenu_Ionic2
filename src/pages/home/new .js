@@ -1,0 +1,2 @@
+ if (name==null || fin=="" || passport=="" || password=="" || confirmpassword=="" || expdate=="" || email=="" || regEXFIN.test(fin)==false||passwordLength<6 || password!=cnfpassword || emailRegEx.test(email)==false || mobileRegEx.test(Mobile)==false || contactMobileRegEx.test(contactMobile)==false || numberRegEx.test(passportNumber)==false){ 
+   
